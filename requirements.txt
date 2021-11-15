@@ -1,4 +1,4 @@
-pip==20.0.2
+pip==21.1
 certifi==2019.11.28
 chardet==3.0.4
 click==7.1.1
